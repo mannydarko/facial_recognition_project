@@ -1,15 +1,5 @@
-# Project 3
-
-## 
 # Face Off Part 2/Celebrity Look-Alike Facial Recognition
 
-
-![alt text]( https://github.com/jeros808/Project3/blob/master/Nick.jpg)
-
-
-## 
-
-(https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 
 Our Project focuses on facial recognition using machine learning. Training of the algorithm would be based on a dataset of celebrity faces. Our project would comprises 3 parts:
